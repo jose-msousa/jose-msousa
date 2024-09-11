@@ -1,5 +1,6 @@
-## Olá!!! Eu sou o José Mendes, Estudande de Engenharia da Computação
+## Olá!!! Eu sou o José Mendes,
 - Graduação em Engenharia Civil
+- Estudante de Engenharia de computação
 
 <div>
   
