@@ -9,3 +9,4 @@
 </div>
 
 
+![snake gif](https://github.com/jose-msousa/jose-msousa/blob/output/github-contribution-grid-snake.gif)
