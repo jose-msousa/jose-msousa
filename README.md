@@ -46,7 +46,7 @@ Sou um desenvolvedor focado em construir aplicações escaláveis e interfaces i
 ### 📊 Performance & Insights
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-msousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-msousa&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
